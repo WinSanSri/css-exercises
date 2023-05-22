@@ -1,7 +1,6 @@
 .odd {
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
     background-color: antiquewhite;
-    font-size: 24px;
 }
 
 #even-blue {
@@ -11,6 +10,10 @@
 
 #even-green {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
+
+.font-size-new {
+    font-size: 24px;
+  }
+  
